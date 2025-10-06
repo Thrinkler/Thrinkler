@@ -67,25 +67,6 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   </a>
 </p>
 
-# GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thrinkler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thrinkler's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrinkler&layout=compact&langs_count=8&theme=dracula" alt="Thrinkler's Top Languages" />
-</p>
-
----
-
-# How to Reach Me
-
-You can find me on the following platforms:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juan-arturo-espejel-báez-b25263327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </p>
-
 <!--
 **Thrinkler/Thrinkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
