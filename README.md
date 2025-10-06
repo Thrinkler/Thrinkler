@@ -70,6 +70,7 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
 # GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thrinkler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thrinkler's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrinkler&layout=compact&langs_count=8&theme=dracula" alt="Thrinkler's Top Languages" />
 </p>
 
