@@ -47,7 +47,7 @@ Here are some of the projects I'm most proud of. You can find more on my reposit
 You can find me on the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[linkedlin](https://www.linkedin.com/in/juan-arturo-espejel-b%C3%A1ez-b25263327/)/">
+  <a href="[https://www.linkedin.com/in/[linkedlin](https://www.linkedin.com/in/juan-arturo-espejel-b%C3%A1ez-b25263327/)/](https://www.linkedin.com/in/juan-arturo-espejel-báez-b25263327/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </p>
