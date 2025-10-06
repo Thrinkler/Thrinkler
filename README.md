@@ -27,7 +27,6 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg#gh-light-mode-only" alt="rust" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg#gh-dark-mode-only" alt="rust" width="40" height="40"/>
   </a>
 </p>
 
@@ -57,8 +56,9 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg#gh-light-mode-only" alt="unreal engine" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine-5-1.svg#gh-dark-mode-only" alt="unreal engine" width="40" height="40"/>
+</a>
 </p>
 
 #### **Cloud & DevOps**
