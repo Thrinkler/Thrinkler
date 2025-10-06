@@ -67,22 +67,9 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   </a>
 </p>
 
-# Featured Projects
-
-Here are some of the projects I'm most proud of. You can find more on my repositories tab.
-
-| Project                                       | Description                                                                                                                              | Technologies Used        |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| **[A-Ecosystem](https://github.com/Thrinkler/A-Ecosystem)** | An Artificial Life simulation where simple agents evolve to survive, compete, and develop complex strategies in a dynamic environment. | `Python`, `Pygame`, `Pandas` |
-| **[Hitori-Solver](https://github.com/Thrinkler/Hitori-Solver)** | | `Python`                 |
-| **[Basic-NN](https://github.com/Thrinkler/Basic-NN)** | | `Python`, `NumPy`        |
-
----
-
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thrinkler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thrinkler's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrinkler&layout=compact&langs_count=8&theme=dracula" alt="Thrinkler's Top Languages" />
 </p>
 
