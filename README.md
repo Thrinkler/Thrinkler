@@ -25,10 +25,10 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-</p>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 </a>
+</p>
 
 #### **Data Science & AI**
 <p align="left">
@@ -55,10 +55,11 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
-</p>
-<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="40" height="40"/>
-</a>
+  </a>
+</p>
+
 #### **Cloud & DevOps**
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
