@@ -70,3 +70,4 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
   </a>
 </p>
 
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=thrinkler&layout=compact&theme=radical)
