@@ -3,10 +3,12 @@ Hi! My name is Arturo Espejel, I'm a mexican Computer Science student from the U
 
 I have been programming since I was 12, my father taught me everything, from C to Python. Eventually, I started doing my own projects.
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thrinkler&show_icons=true&theme=radical)
+
 # Tech stack
 Here are some of the languages, frameworks, and tools I enjoy working with:
 #### **Languages**
-![Lenguajes Top](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thrinkler&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thrinkler&layout=compact&theme=radical)
 
 #### **Data Science & AI**
 <p align="left">
